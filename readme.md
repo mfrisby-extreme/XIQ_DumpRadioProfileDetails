@@ -45,7 +45,7 @@ There is an optional flag that can be added to the script when running.
 ```
 --external
 ```
-This flag will allow you to create the locations and assign the devices to locations on an XIQ account you are an external user on. After logging in with your XIQ credentials the script will give you a numeric option of each of the XIQ instances you have access to. Choose the one you would like to use.
+This flag will allow you to connect to additional external XIQ accounts that your username is part of. After logging in with your XIQ credentials the script will give you a numeric option of each of the XIQ instances you have access to. Choose the one you would like to use.
 ```
 --csv_file
 ```
